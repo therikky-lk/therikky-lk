@@ -1,7 +1,7 @@
 <div align="center">
 
 ### 🦊 Привет, я therikky_ 
-<img src="https://komarev.com/ghpvc/?username=therikky-lk&label=Просмотры профиля&color=ff8a3d&style=for-the-badge&labelColor=0d1117" />
+<img src="https://komarev.com/ghpvc/?username=therikky-lk&label=Просмотры+профиля&color=ff8a3d&style=for-the-badge&labelColor=0d1117" />
 
 Разрабатываю приложения, сайты и небольшие инструменты.  
 Люблю аккуратный интерфейс, тёмные темы и проекты, которыми приятно пользоваться.
