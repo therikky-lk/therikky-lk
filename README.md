@@ -21,7 +21,7 @@
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=therikky-lk&hide_border=true&background=0d1117&ring=ff8a3d&fire=ff8a3d&currStreakLabel=f4e3d0&sideLabels=8b949e&currStreakNum=ff8a3d&sideNums=f4e3d0&dates=8b949e" />
-
+<img src="https://komarev.com/ghpvc/?username=therikky-lk&label=Просмотры&color=ff8a3d&style=for-the-badge&labelColor=0d1117" />
 <br/>
 
 <img height="180" src="./profile-summary-card-output/github_dark/3-stats.svg" />
